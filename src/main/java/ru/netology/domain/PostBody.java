@@ -1,6 +1,6 @@
 package ru.netology.domain;
 
 public class PostBody {
-    private String postText;
+    private String Text;
     private boolean shortVersion;
 }
